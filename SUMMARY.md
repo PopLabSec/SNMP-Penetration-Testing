@@ -18,3 +18,8 @@
 ## SNMP Post-Exploitation
 
 * [Page 4](snmp-post-exploitation/page-4.md)
+
+## SNMP Hacking Labs
+
+* [Build Your SNMP Lab](snmp-hacking-labs/build-your-snmp-lab.md)
+* [Hack The Box Machines](snmp-hacking-labs/hack-the-box-machines.md)
