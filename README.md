@@ -30,3 +30,7 @@ First Understand the SNMP Protocol
 
 
 <figure><img src=".gitbook/assets/HTB_RedTeamLabs.jpeg" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://cli-ck.me/htb-pro-labs" %}
+
+{% embed url="https://www.poplabsec.com/snmp-penetration-testing/" %}
