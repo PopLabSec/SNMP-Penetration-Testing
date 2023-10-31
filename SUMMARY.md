@@ -6,7 +6,15 @@
 
 * [Page 2](snmp-protocol/page-2.md)
 
-## Enumeration
+## SNMP Enumeration
 
-* [Page 1](enumeration/page-1.md)
-* [Tools](enumeration/tools.md)
+* [Page 1](snmp-enumeration/page-1.md)
+* [Tools](snmp-enumeration/tools.md)
+
+## SNMP Exploitation
+
+* [Page 3](snmp-exploitation/page-3.md)
+
+## SNMP Post-Exploitation
+
+* [Page 4](snmp-post-exploitation/page-4.md)
