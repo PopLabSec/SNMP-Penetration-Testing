@@ -26,3 +26,7 @@ First Understand the SNMP Protocol
 ### SNMP Exploitation
 
 ### SNMP Post Exploitation
+
+
+
+<figure><img src=".gitbook/assets/HTB_RedTeamLabs.jpeg" alt=""><figcaption></figcaption></figure>
