@@ -17,6 +17,7 @@
 
 * [Brute Force Communities](snmp-exploitation/brute-force-communities.md)
 * [SNMP Brute Force Passwords](snmp-exploitation/snmp-brute-force-passwords.md)
+* [Page](snmp-exploitation/page.md)
 * [SNMP RCE](snmp-exploitation/snmp-rce.md)
 * [SNMP Exploits](snmp-exploitation/snmp-exploits.md)
 
