@@ -2,7 +2,7 @@
 description: SNMP Hacking Tools
 ---
 
-# Tools
+# SNMP Tools
 
 ### MsfConsole
 
@@ -52,3 +52,8 @@ snmpwalk -c private -v1 ipaddress 1
 snmpwalk -c manager -v1 ipaddress 1
 ```
 
+OneSixtyOne
+
+SNMP Check
+
+Hydra Brute Force

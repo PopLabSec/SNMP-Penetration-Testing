@@ -1,0 +1,2 @@
+# SNMP Authentication Types
+
