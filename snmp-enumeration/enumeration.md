@@ -1,4 +1,11 @@
-# Page 1
+---
+description: >-
+  Discover the intricacies of SNMP enumeration in our latest article. Uncover
+  how this key technique aids in network management & potentially exposing
+  vulnerabilities.
+---
+
+# Enumeration
 
 ### onesixtyone <a href="#onesixtyone" id="onesixtyone"></a>
 

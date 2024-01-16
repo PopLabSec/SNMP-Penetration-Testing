@@ -1,4 +1,8 @@
 ---
+description: >-
+  Read our comprehensive article on SNMP Penetration Testing, to understand this
+  fundamental aspect of IT security. Learn how to detect potential threats and
+  safeguard your systems.
 cover: .gitbook/assets/SNMP  Penetration Testing.jpg
 coverY: 0
 layout:

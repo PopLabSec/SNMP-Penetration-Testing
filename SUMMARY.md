@@ -10,7 +10,7 @@
 
 ## 2⃣ SNMP Enumeration
 
-* [Page 1](snmp-enumeration/page-1.md)
+* [Enumeration](snmp-enumeration/enumeration.md)
 * [SNMP Tools](snmp-enumeration/snmp-tools.md)
 
 ## 3⃣ SNMP Exploitation
